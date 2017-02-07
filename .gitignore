@@ -1,0 +1,12 @@
+# OSX
+.DS_Store
+
+# Intellij
+.idea/
+*.iml
+
+# Python
+*.pyc
+
+# Pyenv
+.python-version
